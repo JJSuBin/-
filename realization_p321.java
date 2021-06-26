@@ -1,5 +1,5 @@
 import java.util.*;
-public class greedy_p321 {
+public class realization_p321 {
 public static String str;
 public static int summary1=0;
 public static int summary2=0;
